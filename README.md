@@ -60,12 +60,9 @@ olist-data-modelling/
 ├── notebooks/
 │   └── 01_cleaning.ipynb        # Python cleaning and validation
 ├── sql/
-│   ├── schema.sql               # Tables, keys, indexes
-│   ├── business_queries.sql     # 12 business questions with insights
-│   └── views.sql                # Reporting views used by Power BI
 ├── powerbi/
 │   └── olist_dashboard.pbix     # Data model and dashboard
-├── images/                      # ER diagram, data model, dashboard screenshots
+├── images/                      # data model, dashboard screenshots
 ├── README.md
 ```
 
