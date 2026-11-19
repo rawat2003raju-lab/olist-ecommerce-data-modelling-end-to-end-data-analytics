@@ -118,13 +118,10 @@ Star schema with three fact tables and five dimensions:
 ## Dashboard
 
 ### Page 1: Executive Overview
-![Page 1](images/dashboard_page1.png)
 
 ### Page 2: Customers and Geography
-![Page 2](images/dashboard_page2.png)
 
 ### Page 3: Delivery and Satisfaction
-![Page 3](images/dashboard_page3.png)
 
 ---
 
